@@ -9,4 +9,4 @@ The purpose of this journal is to document the daily/weekly tasks that I have co
 * Fixed the dismissible feature for the pop-up alert in bootstrap
 * Verified that the data populating the 'Automatic Repair Classification CSV' was accurate
 
-Tags: #python #bootstrap #django #pandas
+Tags: #python #HTML #JavaScript #JQuery #bootstrap #django #pandas
