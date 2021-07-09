@@ -1,8 +1,8 @@
 ## Tech Journal
 
-The purpose of this journal is to document the daily/weekly tasks that I have completed. This will better allow me to recap my progress as a programmer. I think that this journal will be especially important while I am still in my internship as well as school. It will help me build a resume and a social profile that accurately reflects the work that I am doing. I like the idea of adding tags at the bottom of the entries in order to offer quick searches of various tech topics. 
+The purpose of this journal is to document the daily/weekly tasks that I have completed. This will better allow me to recap my progress as a programmer. I think that this journal will be especially important while I am still in my internship as well as school. It will help me build a resume and a social profile (LinkedIn) that accurately reflects the work that I am doing. I chose to add tags to the bottom of the entries in order to better show myself what technologies I am frequently learning. It could also provide a fast way to search topics within my journals.  
 
-## For Example
+## Example Post
 
 ### Journal Entry: 07.09.2021
 * Created HttpResponseRedirect with a detailed alert message
